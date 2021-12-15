@@ -1,4 +1,4 @@
-var photos= ["img/img-1.jpg","img/img-2.jpg","img/img-3.jpg","img/img-4.jpg"];
+var photos= ["img/img-1.png","img/img-2.png","img/img-3.jpg","img/img-4.jpg"];
 var image= document.getElementById('img');
 var inum=0;
 function next(){
